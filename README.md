@@ -1,5 +1,7 @@
 # Unit 16 | Assignment - Data Journalism and D3
 
+### Web Link https://lisagee24.github.io/16-D3_HW/StarterCode/index.html
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
